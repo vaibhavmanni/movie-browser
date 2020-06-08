@@ -1,5 +1,5 @@
 
-const API_KEY = "9f9324cd";
+const API_KEY = "<add your api key here>";
 
 
 //fetch search data from omdb api
